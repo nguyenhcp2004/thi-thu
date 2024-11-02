@@ -37,7 +37,11 @@ chọn javascript
   npm i react-toastify
 ```
 
-3.**Copy lại các page nhưng sẽ phải sửa lại cho đúng field** 4.**Copy useRouteElement, App.jsx, main.jsx** 5.**App.css và index.css sẽ không cần dùng nên là mình có thể xóa lun cũng được**
+3.**Copy lại các page nhưng sẽ phải sửa lại cho đúng field**
+
+4.**Copy useRouteElement, App.jsx, main.jsx**
+
+5.**App.css và index.css sẽ không cần dùng nên là mình có thể xóa lun cũng được**
 
 ## CHÚ Ý:
 
